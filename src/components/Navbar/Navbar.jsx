@@ -19,7 +19,7 @@ function Navbar() {
         <Link to="/"><img src={Logo} alt="azzirLogo" /></Link>
       </div>
       <div className="nav_right">
-        <Link className='link' to ="/"> Home</Link>
+        <Link className='link' to ="/azzir-app"> Home</Link>
         <Link className='link'  to ="/about"> About</Link>
         <Link className='link'  to ="/contact"> Contacts</Link>
       </div>

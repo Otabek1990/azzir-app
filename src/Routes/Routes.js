@@ -5,7 +5,7 @@ import About from '../pages/About/About';
 import Contact from '../pages/Contact/Contact';
 
  const AllRoutes=[
-    {path:"/",element:<Homepage/>},
+    {path:"/azzir-app",element:<Homepage/>},
     {path:"/about",element:<About/>},
     {path:"/contact",element:<Contact/>},
     {path:"/productDetail/:id",element:<ProductDetail/>},
