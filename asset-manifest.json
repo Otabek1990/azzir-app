@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/azzir-app/static/css/main.7f0f5d35.css",
-    "main.js": "/azzir-app/static/js/main.223688df.js",
-    "static/media/logo.svg": "/azzir-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/azzir-app/static/css/main.b0b7a167.css",
+    "main.js": "/azzir-app/static/js/main.6eab202c.js",
+    "static/media/buketSpice.jpg": "/azzir-app/static/media/buketSpice.9a4e71739b3babd15975.jpg",
+    "static/media/kunjutYog.jpg": "/azzir-app/static/media/kunjutYog.4b9641e7287b3a564ace.jpg",
+    "static/media/chesnok.jpg": "/azzir-app/static/media/chesnok.060c4cf105f00d3bd8f1.jpg",
+    "static/media/panko.jpg": "/azzir-app/static/media/panko.c9712462f8a7c8d18246.jpg",
+    "static/media/chesnokSpice.jpg": "/azzir-app/static/media/chesnokSpice.6e656f85da09d9f689be.jpg",
+    "static/media/meatSpice.jpg": "/azzir-app/static/media/meatSpice.9ffeb388bc70f4da2c1f.jpg",
+    "static/media/azzirLogo.png": "/azzir-app/static/media/azzirLogo.b698379dea19857eac98.png",
     "index.html": "/azzir-app/index.html",
-    "main.7f0f5d35.css.map": "/azzir-app/static/css/main.7f0f5d35.css.map",
-    "main.223688df.js.map": "/azzir-app/static/js/main.223688df.js.map"
+    "main.b0b7a167.css.map": "/azzir-app/static/css/main.b0b7a167.css.map",
+    "main.6eab202c.js.map": "/azzir-app/static/js/main.6eab202c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f0f5d35.css",
-    "static/js/main.223688df.js"
+    "static/css/main.b0b7a167.css",
+    "static/js/main.6eab202c.js"
   ]
 }
