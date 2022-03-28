@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/azzir-app/static/css/main.7f0f5d35.css",
+    "main.js": "/azzir-app/static/js/main.223688df.js",
+    "static/media/logo.svg": "/azzir-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/azzir-app/index.html",
+    "main.7f0f5d35.css.map": "/azzir-app/static/css/main.7f0f5d35.css.map",
+    "main.223688df.js.map": "/azzir-app/static/js/main.223688df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f0f5d35.css",
+    "static/js/main.223688df.js"
+  ]
+}
