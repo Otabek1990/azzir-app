@@ -1,0 +1,10 @@
+.carousel_paper{
+    width: 100%;
+    height: 95vh;
+    background-color: blue;
+}
+.banner_img{
+    width: 100%;
+    height: 95vh;
+    object-fit: cover;
+}

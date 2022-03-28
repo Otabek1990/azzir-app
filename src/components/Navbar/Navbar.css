@@ -1,0 +1,25 @@
+nav{
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 70px;
+    position: fixed;
+    width: 100%;
+    background-color: transparent;
+    z-index: 99;
+    transition: 0.4s linear;
+}
+.scrolled_nav{
+    background-color:rgb(68, 63, 63);
+}
+.nav_left img{
+width: 250px;
+}
+.nav_right .link{
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 24px;
+    color:white;
+    font-weight: 500;
+}

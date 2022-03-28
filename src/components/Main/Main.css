@@ -1,0 +1,23 @@
+main{
+    padding:20px 70px;
+}
+main h1{
+    text-align: center;
+    font-size: 45px;
+    
+}
+main .categories{
+    display: flex;
+    justify-content: center;
+}
+main .categories h2{
+    text-transform: capitalize;
+    margin-right: 15px;
+    font-weight: 400;
+}
+main .products_list{
+    margin:15px 0;
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 10px;
+}
