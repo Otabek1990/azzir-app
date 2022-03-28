@@ -16,7 +16,7 @@ function Navbar() {
   return (
     <nav className={scrolled ? "scrolled_nav":""}>
       <div className="nav_left">
-        <Link to="/"><img src={Logo} alt="azzirLogo" /></Link>
+        <Link to="/azzir-app"><img src={Logo} alt="azzirLogo" /></Link>
       </div>
       <div className="nav_right">
         <Link className='link' to ="/azzir-app"> Home</Link>
